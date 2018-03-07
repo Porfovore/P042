@@ -1,1 +1,1 @@
-# P042
+# Es sāku apgūt "git" versiju kontrole sistēmu.
